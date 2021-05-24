@@ -1,0 +1,42 @@
+[
+{
+    "model": "polls.question",
+    "pk": 1,
+    "fields": {
+        "question_text": "What's up",
+        "pub_date": "2021-05-24T11:52:18Z"
+    }
+},
+{
+    "model": "polls.question",
+    "pk": 2,
+    "fields": {
+        "question_text": "What is a correct syntax to output \"Hello World\" in Python?",
+        "pub_date": "2021-05-24T12:21:27Z"
+    }
+},
+{
+    "model": "polls.question",
+    "pk": 3,
+    "fields": {
+        "question_text": "Which one is NOT a legal variable name?",
+        "pub_date": "2021-05-24T12:21:41Z"
+    }
+},
+{
+    "model": "polls.question",
+    "pk": 4,
+    "fields": {
+        "question_text": "What is the correct file extension for Python files?",
+        "pub_date": "2021-05-24T12:21:53Z"
+    }
+},
+{
+    "model": "polls.question",
+    "pk": 5,
+    "fields": {
+        "question_text": "What is the correct syntax to output the type of a variable or object in Python?",
+        "pub_date": "2021-05-24T12:22:03Z"
+    }
+}
+]

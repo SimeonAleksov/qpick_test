@@ -1,0 +1,47 @@
+[
+{
+    "model": "polls.choice",
+    "pk": 1,
+    "fields": {
+        "question": 1,
+        "choice_text": "Nothing",
+        "votes": 5
+    }
+},
+{
+    "model": "polls.choice",
+    "pk": 2,
+    "fields": {
+        "question": 2,
+        "choice_text": "print(\"Hello Worlds\")",
+        "votes": 1
+    }
+},
+{
+    "model": "polls.choice",
+    "pk": 3,
+    "fields": {
+        "question": 3,
+        "choice_text": "something",
+        "votes": 0
+    }
+},
+{
+    "model": "polls.choice",
+    "pk": 4,
+    "fields": {
+        "question": 4,
+        "choice_text": ".js",
+        "votes": 0
+    }
+},
+{
+    "model": "polls.choice",
+    "pk": 5,
+    "fields": {
+        "question": 5,
+        "choice_text": "print(type(var))",
+        "votes": 2
+    }
+}
+]
